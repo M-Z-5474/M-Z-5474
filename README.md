@@ -7,42 +7,32 @@
   <a href="mailto:m.zainmushtaq74@gmail.com"><img src="https://img.shields.io/badge/Email-m.zainmushtaq74@gmail.com-red?style=flat&logo=gmail" alt="Email Badge"></a>
 </p>
 
----
-
-### About Me
+### 📘 About Me
 
 - 🎓 **BS IT** from *University of Gujrat* (June 2025) — **CGPA: 3.69**
 - 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**
 - 🧠 Research interests: **Mental Health**, **Brain Activity (fMRI)**, and **Cloud Security**
-- 📝 Contributed to multiple **research papers** and **Systematic Literature Reviews** (SLRs) under preparation.
+- 📝 Contributed to multiple **research papers** and **Systematic Literature Reviews (SLRs)** currently under preparation
 - 👨‍💻 Skilled in **Python**, **Pandas**, **NLP**, and building ML models
 
-
-
-
-### Open to Collaborate On
+### 🤝 Open to Collaborate On
 
 - 📌 AI/ML Research Projects  
 - 📌 Mental Health, Brain-Data, or NLP-Based Work  
 - 📌 Open Source Data Science Projects  
 - 📌 Research-Driven Applications Using Python  
 
-
-
-### Personal Insight
+### 🧠 Personal Insight
 
 I’m deeply curious about how machines learn — and how we, as humans, can guide them to solve meaningful problems.
 
 > 🧠 *"Learning AI is not about knowing everything — it's about solving real problems, one step at a time."*
 
-
-
 ### 💡 Fun Fact
 
 Even outside of experiments and datasets, I find myself analyzing ideas, exploring mental models, and reflecting on real-world problems 🤔 — usually over a hot cup of **Chaye ☕**, which, in my workflow, serves as the *unofficial fuel of research and machine learning*.
 
-
-### Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -60,9 +50,8 @@ Even outside of experiments and datasets, I find myself analyzing ideas, explori
 
 ---
 
-### How to Reach Me
+### 📫 How to Reach Me
 
-- 📧 Email: m.zainmushtaq74@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/muhammad-zain-m-a75163358](https://www.linkedin.com/in/muhammad-zain-m-a75163358)  
-- 🐙 GitHub: [github.com/M-Z-5474](https://github.com/M-Z-5474)
-
+- 📧 **Email**: [m.zainmushtaq74@gmail.com](mailto:m.zainmushtaq74@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/muhammad-zain-m-a75163358](https://www.linkedin.com/in/muhammad-zain-m-a75163358)  
+- 🐙 **GitHub**: [github.com/M-Z-5474](https://github.com/M-Z-5474)
