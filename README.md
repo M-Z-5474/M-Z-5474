@@ -1,79 +1,68 @@
-<h1 align="center">Hi 👋, I'm M. Zain Mushtaq </h1>
-<h3 align="center">AI/ML & Data Science Enthusiast | Researcher | BS IT Graduate </h3>
+<h1 align="center">Hi 👋, I'm M. Zain Mushtaq</h1>
+<h3 align="center">AI/ML & Data Science Enthusiast | Researcher | BS IT Graduate (3.69 CGPA)</h3>
+I love solving real-world problems using data
+
+<p align="center">
+  <a href="https://github.com/M-Z-5474"><img src="https://img.shields.io/github/followers/M-Z-5474?label=Follow&style=social" alt="GitHub Badge"></a>
+  <a href="https://www.linkedin.com/in/muhammad-zain-m-a75163358/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"></a>
+  <a href="mailto:mzain.it@gmail.com"><img src="https://img.shields.io/badge/Email-mzain.it@gmail.com-red?style=flat&logo=gmail" alt="Email Badge"></a>
+</p>
 
 ---
 
-- 🎓 **About Me**  
-- 💻 Recently graduated in **BS Information Technology** from *University of Gujrat (June 2025)*  
-- 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**  
-- 🧠 Focused on applying **AI in Mental Health, Brain Research, and Cybersecurity**
-- 📝 Authored/co-authored multiple **research papers and systematic literature reviews (SLRs)**  
-- 🔍 Exploring new insights through **data-driven research** and real-world projects
-- 👨‍💻 Working on projects using **Python**, **Pandas**, **NLP**, and **ML models**
+### 🎓 About Me
 
+- 💻 Graduated in **BS Information Technology** from *University of Gujrat* (June 2025) — CGPA: **3.69**
+- 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**
+- 🧠 Special interest in applying AI to **Mental Health**, **Brain Research**, and **Cloud Security**
+- 📝 Authored/co-authored multiple **research papers** and **Systematic Literature Reviews (SLRs)**
+- 🔍 Constantly exploring data-driven insights and real-world applications
+- 👨‍💻 Skilled in **Python**, **Pandas**, **NLP**, and ML models for classification, regression, and analysis
 
-🚀 **Projects & Research Highlights**
-- 🧠 *Mental Health Prediction* using Reddit & Survey Data [AI Project]
-- 🧬 *fMRI Gambling Analysis* using Brain Activation & Brodmann Areas
-- ☁️ *Federated Learning & Cloud Security* – Systematic Review
-- 📈 *Power BI Sales Dashboard* – End-to-end BI solution
+---
 
+### 🚀 Projects & Research Highlights
 
+- 🧠 **Mental Health Prediction using Reddit & Survey Data**  
+  Classifying stress, anxiety, and depression using NLP & structured models.
+
+- 🧬 **fMRI Gambling Analysis**  
+  Studied Brodmann areas 9, 10, 24, and 32 using ANN, Random Forest, and Decision Trees.
+
+- ☁️ **Federated Learning for Cloud Security**  
+  Conducted a systematic review on privacy-preserving AI in cloud environments.
+
+- 📊 **Power BI Sales Dashboard**  
+  Built dynamic dashboards visualizing multi-year sales data by region, brand & supervisor.
 
 ---
 
 
-
-## Hi there 👋
-
-I'm Muhammad Zain — a passionate AI/ML enthusiast, Data Science researcher, and recent BS IT graduate (3.69 CGPA).  
-I enjoy solving real-world problems using data, especially in mental health, brain activity, and cybersecurity domains.
-
-- 🔭 I’m currently working on:  
-  - AI-based Mental Health Prediction  
-  - Federated Learning for Cloud Security  
-  - Research Paper Publishing  
-
-- 🌱 I’m currently learning:  
-  - Advanced ML techniques  
-  - NLP and Deep Learning  
-  - Brain-Computer Interfaces  
-
-- 👯 I’m looking to collaborate on:  
+- 👯 Looking to collaborate on:
   - AI research projects  
-  - Open-source ML applications  
-  - Data-driven mental health tools  
+  - NLP or mental health-focused datasets  
+  - Open-source machine learning solutions
+  - Data Science projects
 
-- 📫 How to reach me:  
-  - Email: mzain.it@gmail.com  
-  - LinkedIn: [Muhammad Zain](https://www.linkedin.com/in/muhammad-zain-m-a75163358/)
+- 📫 How to reach me:
+  - ✉️ Email: m.zainmushtaq74@gmail.com  
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-zain-m-a75163358/)
 
-💡 **Personal Insight**  
-When I’m not training models or debugging code, you’ll find me lost in deep thoughts — probably over a hot cup of **Chaye ☕**, the official drink of machine learning.  
-I enjoy solving problems independently, always striving to find the best solution.
+---
+
+### 💡 Personal Insight
+
+When I’m not training models or debugging code, you’ll find me lost in deep thoughts — probably over a hot cup of **Chaye ☕**, the official drink of machine learning (at least in my world).  
+I enjoy solving problems independently, always striving to find the best possible solution.
 
 🧠 *"Learning AI is not about knowing everything — it's about solving real problems, one step at a time."*
 
-<!--
-**M-Z-5474/M-Z-5474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-🛠️ **Tech Stack**
+### 🛠️ Tech Stack
 
 ```yaml
-Languages: Python 
-Tools: Power BI, Jupyter, Google Colab, VS Code
-Libraries: pandas, NumPy, scikit-learn, TensorFlow, seaborn, matplotlib  
-Domains: NLP, Classification, Regression, Dashboarding
-
+Languages: Python, SQL  
+Tools: Power BI, Jupyter Notebook, Google Colab, VS Code  
+Libraries: pandas, NumPy, scikit-learn, TensorFlow, matplotlib, seaborn  
+Domains: NLP, Classification, Regression, Data Visualization, Brain Signal Analysis
