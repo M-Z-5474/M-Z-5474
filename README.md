@@ -14,7 +14,7 @@
 - 🎓 **BS IT** from *University of Gujrat* (June 2025) — **CGPA: 3.69**
 - 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**
 - 🧠 Research interests: **Mental Health**, **Brain Activity (fMRI)**, and **Cloud Security**
-- 📝 Published/co-authored multiple **research papers** and **SLRs**
+- 📝 Contributed to multiple **research papers** and **Systematic Literature Reviews** (SLRs) under preparation.
 - 👨‍💻 Skilled in **Python**, **Pandas**, **NLP**, and building ML models
 
 ---
