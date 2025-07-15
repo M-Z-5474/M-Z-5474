@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zain Mushtaq </h1>
+<h1 align="center">Hi 👋, I'm M. Zain Mushtaq </h1>
 <h3 align="center">AI/ML & Data Science Enthusiast | Researcher | BS IT Graduate </h3>
 
 ---
