@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M. Zain Mushtaq</h1>
-<h3 align="center">AI/ML & Data Science Enthusiast | Researcher | BS IT Graduate (3.69 CGPA)</h3>
+<h3 align="center">AI/ML & Data Science Enthusiast | Researcher | IT Graduate </h3>
 
 
 <p align="center">
