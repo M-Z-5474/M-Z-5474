@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-zain-m-a75163358/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"></a>
-  <a href="mailto:m.zainmushtaq74@gmail.com  "><img src="https://img.shields.io/badge/Email-mzain.it@gmail.com-red?style=flat&logo=gmail" alt="Email Badge"></a>
+  <a href="mailto:m.zainmushtaq74@gmail.com  "><img src="https://img.shields.io/badge/Email-m.zainmushtaq74@gmail.com-red?style=flat&logo=gmail" alt="Email Badge"></a>
 </p>
 
 ---
