@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm M. Zain Mushtaq</h1>
-<h3 align="center">AI/ML & Data Science Enthusiast | Researcher | IT Graduate </h3>
-
+<h3 align="center">AI/ML & Data Science Enthusiast | Researcher | IT Graduate</h3>
 
 <p align="center">
   <a href="https://github.com/M-Z-5474"><img src="https://img.shields.io/badge/GitHub-Follow-%2312100E?style=flat&logo=github" alt="GitHub Badge"></a>
@@ -8,39 +7,51 @@
   <a href="mailto:m.zainmushtaq74@gmail.com"><img src="https://img.shields.io/badge/Email-m.zainmushtaq74@gmail.com-red?style=flat&logo=gmail" alt="Email Badge"></a>
 </p>
 
-
 ---
 
 ### 🎓 About Me
 
-- 💻 Graduated in **BS Information Technology** from *University of Gujrat* (June 2025) — CGPA: **3.69**
-- 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**
-- 🧠 Special interest in applying AI to **Mental Health**, **Brain Research**, and **Cloud Security**
-- 📝 Authored/co-authored multiple **research papers** and **Systematic Literature Reviews (SLRs)**
-- 🔍 Constantly exploring data-driven insights and real-world applications
-- 👨‍💻 Skilled in **Python**, **Pandas**, **NLP**, and ML models for classification, regression, and analysis
+- 🎓 BS Information Technology, *University of Gujrat* — Graduated **June 2025** with **3.69 CGPA**
+- 🤖 Enthusiastic about **AI, Machine Learning**, and **Data Science**
+- 🧠 Research-driven mindset with focus areas in **Mental Health**, **Brain Activity**, and **Cloud Security**
+- 📝 Authored/co-authored several **research papers** and **Systematic Literature Reviews (SLRs)**
+- 👨‍💻 Hands-on experience with **Python**, **NLP**, and building ML models for real-world problems
 
 ---
 
+### 🚀 What I'm Working On
 
-- 👯 Looking to collaborate on:
-  - AI research projects  
-  - NLP or mental health-focused datasets  
-  - Open-source machine learning solutions
-  - Data Science projects
-
+- 🧠 AI-based Mental Health Prediction using Reddit & Survey data  
+- 🧬 Brain Analysis from fMRI (Brodmann areas & gambling research)  
+- ☁️ Federated Learning for Privacy-Preserving Cloud Security  
+- 📊 Power BI Dashboards & Business Intelligence Analytics  
 
 ---
 
-### 💡 Personal Insight
+### 👯 I’m Open to Collaborate On
 
-When I’m not training models or debugging code, you’ll find me lost in deep thoughts — probably over a hot cup of **Chaye ☕**, the official drink of machine learning (at least in my world).  
-I enjoy solving problems, always striving to find the best possible solution.
+- Research & innovation in AI/ML  
+- Mental health or brain-data related projects  
+- NLP-based systems using Python  
+- Applied data science or visualization solutions  
+
+---
+
+### 💬 Personal Insight
+
+I’m deeply curious about how machines learn — and how we, as humans, can guide them to solve meaningful problems.
 
 🧠 *"Learning AI is not about knowing everything — it's about solving real problems, one step at a time."*
 
 ---
-### 🚀 Tech Stack & Tools
+
+### 💡 Fun Fact
+
+When I’m not training models or debugging code, you’ll likely find me in deep thought — probably over a hot cup of **Chaye ☕**, which I proudly call the **fuel of machine learning** in my world.
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
@@ -55,10 +66,11 @@ I enjoy solving problems, always striving to find the best possible solution.
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge"/>
 </p>
-                  
 
-### 📫 How to reach me:
+---
 
-  - ✉️ Email: m.zainmushtaq74@gmail.com  
-  - 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-zain-m-a75163358/
+### 📫 How to Reach Me
+
+- 📧 Email: m.zainmushtaq74@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/muhammad-zain-m-a75163358](https://www.linkedin.com/in/muhammad-zain-m-a75163358)
 
