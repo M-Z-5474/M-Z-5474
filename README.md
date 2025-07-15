@@ -17,7 +17,7 @@
 - 📝 Contributed to multiple **research papers** and **Systematic Literature Reviews** (SLRs) under preparation.
 - 👨‍💻 Skilled in **Python**, **Pandas**, **NLP**, and building ML models
 
----
+
 
 
 ### Open to Collaborate On
@@ -27,7 +27,7 @@
 - 📌 Open Source Data Science Projects  
 - 📌 Research-Driven Applications Using Python  
 
----
+
 
 ### Personal Insight
 
@@ -35,13 +35,12 @@ I’m deeply curious about how machines learn — and how we, as humans, can gui
 
 > 🧠 *"Learning AI is not about knowing everything — it's about solving real problems, one step at a time."*
 
----
 
-### Fun Fact
 
-When I’m not building models or debugging code, you’ll often find me thinking deeply over a hot cup of **Chaye ☕**, the *official fuel of machine learning* in my world.
+### 💡 Fun Fact
 
----
+Even outside of experiments and datasets, I find myself analyzing ideas, exploring mental models, and reflecting on real-world problems 🤔 — usually over a hot cup of **Chaye ☕**, which, in my workflow, serves as the *unofficial fuel of research and machine learning*.
+
 
 ### Tech Stack & Tools
 
