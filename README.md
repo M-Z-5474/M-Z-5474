@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zain</h1>
-<h3 align="center">AI/ML & Data Science Enthusiast | Researcher </h3>
+<h3 align="center">AI/ML & Data Science Enthusiast | Researcher | BS IT Graduate </h3>
 
 ---
 
-🔬 **About Me**  
-- 🎓 Final year student of **BS Information Technology** at *University of Gujrat*  
-- 📊 Passionate about **Data Science**, **Machine Learning**, and **AI for Mental Health**  
-- 📚 Authored and contributed to multiple **research papers** and **Systematic Literature Reviews (SLRs)**  
+- 🎓 **About Me**  
+- 💻 Recently graduated in **BS Information Technology** from *University of Gujrat (June 2025)*  
+- 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**  
+- 🧠 Focused on applying **AI in Mental Health, Brain Research, and Cybersecurity**
+- 📝 Authored/co-authored multiple **research papers and systematic literature reviews (SLRs)**  
+- 🔍 Exploring new insights through **data-driven research** and real-world projects
 - 👨‍💻 Working on projects using **Python**, **Pandas**, **NLP**, and **ML models**
 
----
 
 🚀 **Projects & Research Highlights**
 - 🧠 *Mental Health Prediction* using Reddit & Survey Data [AI Project]
