@@ -60,4 +60,4 @@ I enjoy solving problems, always striving to find the best possible solution.
 </p>
 
 
-Domains: NLP, Classification, Regression, Data Visualization, Brain Signal Analysis
+                         Domains: NLP, Classification, Regression, Data Visualization, Brain Signal Analysis
