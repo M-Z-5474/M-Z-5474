@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zain</h1>
-<h3 align="center">AI/ML & Data Science Enthusiast | Researcher | Final Year BS IT Student</h3>
+<h3 align="center">AI/ML & Data Science Enthusiast | Researcher </h3>
 
 ---
 
