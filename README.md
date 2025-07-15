@@ -55,9 +55,7 @@ I enjoy solving problems, always striving to find the best possible solution.
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge"/>
 </p>
-
-
-                         Domains: NLP, Classification, Regression, Data Visualization, Brain Signal Analysis
+                  
 
 ### 📫 How to reach me:
 
