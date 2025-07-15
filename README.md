@@ -19,15 +19,6 @@
 
 ---
 
-### 🚀 What I'm Working On
-
-- 🧠 AI-based Mental Health Prediction using Reddit & Survey data  
-- 🧬 Brain Analysis from fMRI (Brodmann areas & gambling research)  
-- ☁️ Federated Learning for Privacy-Preserving Cloud Security  
-- 📊 Power BI Dashboards & Business Intelligence Analytics  
-
----
-
 ### 👯 I’m Open to Collaborate On
 
 - Research & innovation in AI/ML  
