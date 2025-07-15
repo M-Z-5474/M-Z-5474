@@ -22,15 +22,6 @@
 
 ---
 
-🛠️ **Tech Stack**
-
-```yaml
-Languages: Python 
-Tools: Power BI, Jupyter, Google Colab, VS Code
-Libraries: pandas, NumPy, scikit-learn, TensorFlow, seaborn, matplotlib  
-Domains: NLP, Classification, Regression, Dashboarding
-yaml```
----
 
 
 ## Hi there 👋
@@ -77,4 +68,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🛠️ **Tech Stack**
+
+```yaml
+Languages: Python 
+Tools: Power BI, Jupyter, Google Colab, VS Code
+Libraries: pandas, NumPy, scikit-learn, TensorFlow, seaborn, matplotlib  
+Domains: NLP, Classification, Regression, Dashboarding
 
