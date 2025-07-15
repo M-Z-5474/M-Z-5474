@@ -22,22 +22,6 @@
 
 ---
 
-### 🚀 Projects & Research Highlights
-
-- 🧠 **Mental Health Prediction using Reddit & Survey Data**  
-  Classifying stress, anxiety, and depression using NLP & structured models.
-
-- 🧬 **fMRI Gambling Analysis**  
-  Studied Brodmann areas 9, 10, 24, and 32 using ANN, Random Forest, and Decision Trees.
-
-- ☁️ **Federated Learning for Cloud Security**  
-  Conducted a systematic review on privacy-preserving AI in cloud environments.
-
-- 📊 **Power BI Sales Dashboard**  
-  Built dynamic dashboards visualizing multi-year sales data by region, brand & supervisor.
-
----
-
 
 - 👯 Looking to collaborate on:
   - AI research projects  
