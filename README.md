@@ -30,7 +30,7 @@ Tools: Power BI, Jupyter, Google Colab, VS Code
 Libraries: pandas, NumPy, scikit-learn, TensorFlow, seaborn, matplotlib  
 Domains: NLP, Classification, Regression, Dashboarding
 
-----
+---
 
 
 ## Hi there 👋
