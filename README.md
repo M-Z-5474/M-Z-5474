@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Zain</h1>
+<h3 align="center">AI/ML & Data Science Enthusiast | Researcher | Final Year BS IT Student</h3>
 
-<!--
-**M-Z-5474/M-Z-5474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔬 **About Me**  
+- 🎓 Final year student of **BS Information Technology** at *University of Gujrat*  
+- 📊 Passionate about **Data Science**, **Machine Learning**, and **AI for Mental Health**  
+- 📚 Authored and contributed to multiple **research papers** and **Systematic Literature Reviews (SLRs)**  
+- 👨‍💻 Working on projects using **Python**, **Pandas**, **NLP**, and **ML models**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 **Projects & Research Highlights**
+- 🧠 *Mental Health Prediction* using Reddit & Survey Data [AI Project]
+- 🧬 *fMRI Gambling Analysis* using Brain Activation & Brodmann Areas
+- ☁️ *Federated Learning & Cloud Security* – Systematic Review
+- 📈 *Power BI Sales Dashboard* – End-to-end BI solution
+
+📂 View all in my [Repositories](https://github.com/M-Z-5474?tab=repositories)
+
+---
+
+🛠️ **Tech Stack**
+
+```yaml
+Languages: Python 
+Tools: Power BI, Jupyter, Google Colab, VS Code
+Libraries: pandas, NumPy, scikit-learn, TensorFlow, seaborn, matplotlib  
+Domains: NLP, Classification, Regression, Dashboarding
