@@ -60,5 +60,5 @@ I enjoy solving problems, always striving to find the best possible solution.
 ### 📫 How to reach me:
 
   - ✉️ Email: m.zainmushtaq74@gmail.com  
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-zain-m-a75163358/)
+  - 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-zain-m-a75163358/
 
