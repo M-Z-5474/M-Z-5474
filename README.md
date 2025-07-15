@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm M. Zain Mushtaq</h1>
 <h3 align="center">AI/ML & Data Science Enthusiast | Researcher | BS IT Graduate (3.69 CGPA)</h3>
-I love solving real-world problems using data
+
 
 <p align="center">
-  <a href="https://github.com/M-Z-5474"><img src="https://img.shields.io/github/followers/M-Z-5474?label=Follow&style=social" alt="GitHub Badge"></a>
   <a href="https://www.linkedin.com/in/muhammad-zain-m-a75163358/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"></a>
-  <a href="mailto:mzain.it@gmail.com"><img src="https://img.shields.io/badge/Email-mzain.it@gmail.com-red?style=flat&logo=gmail" alt="Email Badge"></a>
+  <a href="mailto:m.zainmushtaq74@gmail.com  "><img src="https://img.shields.io/badge/Email-mzain.it@gmail.com-red?style=flat&logo=gmail" alt="Email Badge"></a>
 </p>
 
 ---
@@ -53,7 +52,7 @@ I love solving real-world problems using data
 ### 💡 Personal Insight
 
 When I’m not training models or debugging code, you’ll find me lost in deep thoughts — probably over a hot cup of **Chaye ☕**, the official drink of machine learning (at least in my world).  
-I enjoy solving problems independently, always striving to find the best possible solution.
+I enjoy solving problems, always striving to find the best possible solution.
 
 🧠 *"Learning AI is not about knowing everything — it's about solving real problems, one step at a time."*
 
