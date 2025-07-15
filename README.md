@@ -18,7 +18,7 @@
 - ☁️ *Federated Learning & Cloud Security* – Systematic Review
 - 📈 *Power BI Sales Dashboard* – End-to-end BI solution
 
-📂 View all in my [Repositories](https://github.com/M-Z-5474?tab=repositories)
+
 
 ---
 
