@@ -54,6 +54,8 @@ Even outside of experiments and datasets, I find myself analyzing ideas, explori
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Z-5474&layout=compact&theme=tokyonight)
+
 </p>
 
 ---
@@ -64,6 +66,5 @@ Even outside of experiments and datasets, I find myself analyzing ideas, explori
 - 🔗 **LinkedIn**: [linkedin.com/in/muhammad-zain-m-a75163358](https://www.linkedin.com/in/muhammad-zain-m-a75163358)  
 - 🐙 **GitHub**: [github.com/M-Z-5474](https://github.com/M-Z-5474)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Z-5474&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Z-5474&layout=compact&theme=tokyonight)
+
 
