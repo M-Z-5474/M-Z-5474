@@ -56,7 +56,6 @@ Even outside of experiments and datasets, I find myself analyzing ideas, explori
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-  ![Visitor Badge](https://komarev.com/ghpvc/?username=M-Z-5474&color=blue)
 
 ---
 
